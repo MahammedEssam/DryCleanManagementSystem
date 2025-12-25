@@ -1,0 +1,6 @@
+@DryCleanShopApi_HostAddress = http://localhost:5224
+
+GET {{DryCleanShopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
